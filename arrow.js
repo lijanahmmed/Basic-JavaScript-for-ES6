@@ -13,5 +13,8 @@ const sum2 = add2(15, 10)
 const sum3 = add3(50, 3)
 
 console.log(sum)
+// 11
 console.log(sum2)
+// 25
 console.log(sum3)
+// 53
